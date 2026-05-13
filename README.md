@@ -1,4 +1,4 @@
-## Updated on 2026.05.12
+## Updated on 2026.05.13
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,9 +11,14 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
-|**2026-05-11**|**Energy-Efficient Implementation of Spiking Recurrent Cells on FPGA**|Pascal Harmeling et.al.|[2605.10679v1](http://arxiv.org/abs/2605.10679v1)|**[link](http://arxiv.org/abs/2605.10679v1)**|
+|**2026-05-12**|**Energy-Efficient Implementation of Spiking Recurrent Cells on FPGA**|Pascal Harmeling et.al.|[2605.10679v2](http://arxiv.org/abs/2605.10679v2)|**[link](http://arxiv.org/abs/2605.10679v2)**|
+|**2026-05-12**|**Massive MIMO CSI Feedback with Spiking Neural Networks**|Yanzhen Liu et.al.|[2605.12434v1](http://arxiv.org/abs/2605.12434v1)|**[link](http://arxiv.org/abs/2605.12434v1)**|
+|**2026-05-12**|**Heterogeneous SoC Integrating an Open-Source Recurrent SNN Accelerator for Neuromorphic Edge Computing on FPGA**|Michelangelo Barocci et.al.|[2605.12217v1](http://arxiv.org/abs/2605.12217v1)|**[link](http://arxiv.org/abs/2605.12217v1)**|
+|**2026-05-12**|**Multi-Timescale Conductance Spiking Networks: A Sparse, Gradient-Trainable Framework with Rich Firing Dynamics for Enhanced Temporal Processing**|Alex Fulleda-Garcia et.al.|[2605.11835v1](http://arxiv.org/abs/2605.11835v1)|**[link](http://arxiv.org/abs/2605.11835v1)**|
+|**2026-05-12**|**A Composite Activation Function for Learning Stable Binary Representations**|Seokhun Park et.al.|[2605.11558v1](http://arxiv.org/abs/2605.11558v1)|**[link](http://arxiv.org/abs/2605.11558v1)**|
 |**2026-05-11**|**Joint sparse coding and temporal dynamics support context reconfiguration**|Qianqian Shi et.al.|[2605.10178v1](http://arxiv.org/abs/2605.10178v1)|**[link](http://arxiv.org/abs/2605.10178v1)**|
 |**2026-05-11**|**Frequency Matching in Spiking Neural Networks for mmWave Sensing**|Di Yu et.al.|[2605.09983v1](http://arxiv.org/abs/2605.09983v1)|**[link](http://arxiv.org/abs/2605.09983v1)**|
+|**2026-05-11**|**Leveraging Non-Equilibrium ECRAM Dynamics for Short-Term Plasticity in Neuromorphic Circuits**|Alex Currie et.al.|[2605.11243v1](http://arxiv.org/abs/2605.11243v1)|**[link](http://arxiv.org/abs/2605.11243v1)**|
 |**2026-05-08**|**Globally Optimal Training of Spiking Neural Networks via Parameter Reconstruction**|Himanshu Udupi et.al.|[2605.08022v1](http://arxiv.org/abs/2605.08022v1)|**[link](http://arxiv.org/abs/2605.08022v1)**|
 |**2026-05-08**|**Aquatic Neuromorphic Optical Flow**|Pei Zhang et.al.|[2605.07653v1](http://arxiv.org/abs/2605.07653v1)|**[link](http://arxiv.org/abs/2605.07653v1)**|
 |**2026-05-08**|**Direct-to-Event Spiking Neural Network Transfer**|Nhan Trong Luu et.al.|[2605.07207v1](http://arxiv.org/abs/2605.07207v1)|**[link](http://arxiv.org/abs/2605.07207v1)**|
@@ -3274,5 +3279,5 @@
 |**2019-07-15**|**Concentration of the matrix-valued minimum mean-square error in optimal Bayesian inference**|Jean Barbier et.al.|[1907.07103v1](http://arxiv.org/abs/1907.07103v1)|**[link](http://arxiv.org/abs/1907.07103v1)**|
 |**2019-07-12**|**Benchmarking Physical Performance of Neural Inference Circuits**|Dmitri E. Nikonov et.al.|[1907.05748v1](http://arxiv.org/abs/1907.05748v1)|**[link](http://arxiv.org/abs/1907.05748v1)**|
 
-<p align=right>(<a href=#Updated-on-20260512>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260513>back to top</a>)</p>
 
